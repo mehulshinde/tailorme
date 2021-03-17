@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tailorme/static/css/main.106baaae.chunk.css",
-    "main.js": "/tailorme/static/js/main.53fbb24d.chunk.js",
-    "main.js.map": "/tailorme/static/js/main.53fbb24d.chunk.js.map",
-    "runtime-main.js": "/tailorme/static/js/runtime-main.2a2cc74f.js",
-    "runtime-main.js.map": "/tailorme/static/js/runtime-main.2a2cc74f.js.map",
-    "static/js/2.a524f394.chunk.js": "/tailorme/static/js/2.a524f394.chunk.js",
-    "static/js/2.a524f394.chunk.js.map": "/tailorme/static/js/2.a524f394.chunk.js.map",
-    "static/js/3.ed137972.chunk.js": "/tailorme/static/js/3.ed137972.chunk.js",
-    "static/js/3.ed137972.chunk.js.map": "/tailorme/static/js/3.ed137972.chunk.js.map",
-    "index.html": "/tailorme/index.html",
-    "static/css/main.106baaae.chunk.css.map": "/tailorme/static/css/main.106baaae.chunk.css.map",
-    "static/js/2.a524f394.chunk.js.LICENSE.txt": "/tailorme/static/js/2.a524f394.chunk.js.LICENSE.txt"
+    "main.css": "/me/static/css/main.106baaae.chunk.css",
+    "main.js": "/me/static/js/main.53fbb24d.chunk.js",
+    "main.js.map": "/me/static/js/main.53fbb24d.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.fbfcab8a.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.fbfcab8a.js.map",
+    "static/js/2.a524f394.chunk.js": "/me/static/js/2.a524f394.chunk.js",
+    "static/js/2.a524f394.chunk.js.map": "/me/static/js/2.a524f394.chunk.js.map",
+    "static/js/3.ed137972.chunk.js": "/me/static/js/3.ed137972.chunk.js",
+    "static/js/3.ed137972.chunk.js.map": "/me/static/js/3.ed137972.chunk.js.map",
+    "index.html": "/me/index.html",
+    "static/css/main.106baaae.chunk.css.map": "/me/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.a524f394.chunk.js.LICENSE.txt": "/me/static/js/2.a524f394.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a2cc74f.js",
+    "static/js/runtime-main.fbfcab8a.js",
     "static/js/2.a524f394.chunk.js",
     "static/css/main.106baaae.chunk.css",
     "static/js/main.53fbb24d.chunk.js"
